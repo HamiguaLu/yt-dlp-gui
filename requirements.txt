@@ -1,0 +1,1 @@
+PySide2==5.15.2.1pywin32==303requests==2.27.1urllib3==1.26.8validators==0.18.2yt-dlp==2022.2.4
